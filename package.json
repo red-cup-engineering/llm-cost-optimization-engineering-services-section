@@ -1,5 +1,5 @@
 {
-  "name": "@red-cup-engineering/llm-cost-optimization-services-section",
+  "name": "@red-cup-engineering/llm-cost-optimization-engineering-services-section",
   "version": "0.1.0",
   "private": false,
   "type": "module",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/llm-cost-optimization-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/llm-cost-optimization-engineering-services-section.git"
   },
   "publishConfig": {
     "access": "public",
